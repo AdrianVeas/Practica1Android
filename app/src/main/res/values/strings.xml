@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Practica1Android</string>
+    <string name="txttelefono">Telefono:</string>
+    <string name="txtfecha_nacimineto">Fecha Nacimineto:</string>
+    <string name="txtnombre">Nombre:</string>
+    <string name="txtinformaci_n">Información</string>
+    <string name="txtgenero">Genero:</string>
+    <string name="lbltema">Práctica 1 Android</string>
+    <string name="lblnombre">Nombre:</string>
+    <string name="rbmasculino">Masculino</string>
+    <string name="lblfecha">Fecha Nac:</string>
+    <string name="lblgenero">Género:</string>
+    <string name="lbltelef">Teléfono:</string>
+    <string name="rbfemenino">Femenino</string>
+    <string name="btnenviar">Enviar</string>
+    <string name="btnregresar">Regresar</string>
+</resources>
